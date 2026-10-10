@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(23, 71, 116);
+}
+.image1{
+    width: ;500px
+    border-radius: 15%;
+    display: flex;
+}
+.image2{
+    display: flex;
+    border-radius: 20%;
+}
